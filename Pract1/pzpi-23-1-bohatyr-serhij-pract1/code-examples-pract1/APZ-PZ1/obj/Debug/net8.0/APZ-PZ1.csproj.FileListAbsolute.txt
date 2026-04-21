@@ -1,0 +1,14 @@
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\bin\Debug\net8.0\APZ-PZ1.exe
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\bin\Debug\net8.0\APZ-PZ1.deps.json
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\bin\Debug\net8.0\APZ-PZ1.runtimeconfig.json
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\bin\Debug\net8.0\APZ-PZ1.dll
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\bin\Debug\net8.0\APZ-PZ1.pdb
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\obj\Debug\net8.0\APZ-PZ1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\obj\Debug\net8.0\APZ-PZ1.AssemblyInfoInputs.cache
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\obj\Debug\net8.0\APZ-PZ1.AssemblyInfo.cs
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\obj\Debug\net8.0\APZ-PZ1.csproj.CoreCompileInputs.cache
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\obj\Debug\net8.0\APZ-PZ1.dll
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\obj\Debug\net8.0\refint\APZ-PZ1.dll
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\obj\Debug\net8.0\APZ-PZ1.pdb
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\obj\Debug\net8.0\APZ-PZ1.genruntimeconfig.cache
+D:\Programs\VSC\Codes\Goofin\APZ-PZ1\APZ-PZ1\obj\Debug\net8.0\ref\APZ-PZ1.dll
